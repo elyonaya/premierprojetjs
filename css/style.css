@@ -1,0 +1,32 @@
+
+main {
+    height: 100vh;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+div {
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    margin: 30px;
+    width: 20%;
+}
+
+h3 {
+    text-align: center;
+}
+
+#bgcolor {
+    color: blue;
+}
+
+#bgbutton {
+    background: none;
+    text-transform: uppercase;
+    padding: 10px;
+    border-radius: 5px;
+}
